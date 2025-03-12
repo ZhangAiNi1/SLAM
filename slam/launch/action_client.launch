@@ -1,0 +1,8 @@
+<launch>
+
+
+    <node pkg="solov2_ros" type="solov2_action_client" name="solov2_action_client" output="screen"  >
+        
+    </node>
+
+</launch>

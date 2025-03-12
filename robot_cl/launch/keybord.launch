@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- 启动键盘遥控节点 -->
+    <node name="teleop_keyboard" pkg="robot_cl" type="twist_keyboard.py" output="screen" respawn="false"/>
+
+</launch>
